@@ -1,0 +1,9 @@
+ipython
+ipdb
+pytest
+pytest-cov
+coveralls
+black
+isort[requirements]
+flake8
+coverage
